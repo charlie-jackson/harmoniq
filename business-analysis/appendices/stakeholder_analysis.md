@@ -1,6 +1,6 @@
 # Harmoniq
 
-## Solutions Analysis
+## Stakeholder Analysis
 
 ![stakeholder analysis](./assets/stakeholder_analysis.png)
 
