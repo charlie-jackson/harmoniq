@@ -1,6 +1,14 @@
 # Harmoniq
 
-## Trends relating to the three proposed solutions
+## Google Trends relating to the three proposed solutions
+
+In order to add context to our proposed solution, the following data from Google Trends will be used to inform our deicision. 
+
+To calculate the Trends, we searched for each given term and set the length criteria to 12 months, indicating how often each given term was searched for over a 12 month period. 
+
+With a maximum score of 100, each search criteria is marked against the same metrics. 
+
+The outcome is that the search term "Live Music" ranked consistently highest throughout the 12 months to date, lending weight to the solution of offering live music tickets for artists, over offering an online record store or merchandise store solutions.
 
 ### "Live Music"
 
