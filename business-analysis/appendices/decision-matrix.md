@@ -18,7 +18,7 @@ The initial investment cost is a critical criteria to meet as it will affect Har
 
 4. **Revenue potential:**
 
-The revenue potential and forecast revenue margins are better for Live Music sales rather than selling products. 
+The revenue potential and forecast revenue margins are better for Live Music sales rather than selling products. Competition from online giants such as Amazon means viability for a vinyl or merchandise store is reduced.
 
 5. **Google Trends analysis:**
 
