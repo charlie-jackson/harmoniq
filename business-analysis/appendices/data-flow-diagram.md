@@ -1,10 +1,10 @@
 # Harmoniq
 
-## Data Flow Diagram
+## Level-1 Data Flow Diagram
 
 ![data-flow-diagram](./assets/data-flow-diagram.jpeg)
 
-This simple Data Flow Diagram shows the journey a customer would take when purchasing tickets in our application.
+This simple 1-Level Data Flow Diagram shows the journey a customer would take when purchasing tickets in our application.
 
 Currently, when users access our service, they navigate via the Homepage to their chosen Artist's page which contains the catalogue of music available.
 
