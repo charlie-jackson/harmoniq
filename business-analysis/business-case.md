@@ -53,6 +53,6 @@ Having studied live ticket sales revenue data from [The Economics Observatory](h
 
 ### Conclusion
 
-We recommend the implementation of a live music ticketing feature for our already-successful platform. In aggregate, consumers spent £6.1 billion going to gigs, festivals & club nights in the UK last year - a 35% increase from pre-pandemic levels ([The Econoics Observatory](https://www.economicsobservatory.com/live-music-in-the-uk-whats-the-state-of-the-industry#:~:text=In%20aggregate%2C%20consumers%20spent%20%C2%A3,in%20and%20around%20the%20event.)). 
+We recommend the implementation of a live music ticketing feature for our already-successful platform. In aggregate, consumers spent £6.1 billion going to gigs, festivals & club nights in the UK last year - a 35% increase from pre-pandemic levels ([The Economics Observatory](https://www.economicsobservatory.com/live-music-in-the-uk-whats-the-state-of-the-industry#:~:text=In%20aggregate%2C%20consumers%20spent%20%C2%A3,in%20and%20around%20the%20event.)). 
 
 This opportunity should be exploited and our value of supporting emerging Artists lends well to the creation of the ticketing feature. 
